@@ -3,6 +3,12 @@
 ## Preparation
 
 For our test suite, we use [mocha](http://mochajs.org/).
+
+```
+npm install mocha --save-dev
+```
+
+
 Before you start building your test cases, you should first organise your `test/` directory structure, for example in the following way:
 
 ```batch
